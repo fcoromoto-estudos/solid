@@ -8,7 +8,7 @@ import lombok.AllArgsConstructor;
 @AllArgsConstructor
 public class ReajusteService {
 
-  private List<Validacao> validacoes;
+  private final List<Validacao> validacoes;
 
   public void reajustarSalario(Funcionario funcionario, BigDecimal aumento) {
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>br.com.fcoromoto.estudo.solid.lsp.Ave</OriginalElement>
+  <nodes>
+    <node x="0.0" y="79.0">br.com.fcoromoto.estudo.solid.lsp.BeijaFlor</node>
+    <node x="131.0" y="79.0">br.com.fcoromoto.estudo.solid.lsp.Pinguim</node>
+    <node x="83.0" y="0.0">br.com.fcoromoto.estudo.solid.lsp.Ave</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="br.com.fcoromoto.estudo.solid.lsp.BeijaFlor" target="br.com.fcoromoto.estudo.solid.lsp.Ave">
+      <point x="0.0" y="-14.5" />
+      <point x="55.5" y="54.0" />
+      <point x="100.25" y="54.0" />
+      <point x="-17.25" y="14.5" />
+    </edge>
+    <edge source="br.com.fcoromoto.estudo.solid.lsp.Pinguim" target="br.com.fcoromoto.estudo.solid.lsp.Ave">
+      <point x="0.0" y="-14.5" />
+      <point x="179.5" y="54.0" />
+      <point x="134.75" y="54.0" />
+      <point x="17.25" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="114.0" y="54.0" />
+  <SelectedNodes>
+    <node>br.com.fcoromoto.estudo.solid.lsp.Ave</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
