@@ -32,8 +32,8 @@ Princípio da segrefação de interface:
 
 _Uma classe não deve ser forçada a implementar interfaces e métodos que não irão utilizar_
 
-## Dependency Injection Principle
+## Dependency Inversion Principle
 
-Princípio da injeção de dependencia:
+Princípio da inversão de dependencia:
 
 _Dependa de abstrações e não de implementações_
