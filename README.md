@@ -7,20 +7,20 @@
 * Dependency Injection Principle ( DIP )
 
 
-##Single Responsibility Principle
+## Single Responsibility Principle
 
 Princípio da responsabilidade única:  
 
 _Uma classe deve ter um, e somente um, motivo para mudar._
 
 
-##Open Closed Principle
+## Open Closed Principle
 
 Princípio Aberto-Fechado:  
 
 _Um objeto deve ser aberto para extensão, mas fechado para alteração_
 
-##Liskov Substitution Principle
+## Liskov Substitution Principle
 
 Princípio da substituição LISKOV:  
 
